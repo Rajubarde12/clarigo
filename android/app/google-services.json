@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171212507427",
+    "project_id": "clarigo-f1699",
+    "storage_bucket": "clarigo-f1699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171212507427:android:3f18745d4542782b50a496",
+        "android_client_info": {
+          "package_name": "com.clarigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCboXQ4uk1H_iTMAkEDgDnstJsOx34pXz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
